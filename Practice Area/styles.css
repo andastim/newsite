@@ -1,0 +1,142 @@
+body{
+    background-image: url(images/minecraft.png);
+}
+
+hr{
+    width: 100% ;
+    background-color: black;
+    
+}
+
+h1{
+    text-align: center;
+    color: #8FCA5C;
+}
+
+h4{
+    text-align: center;
+    color: #8FCA5C;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.creeper{
+    height: 175px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.creeper-description{
+    margin: 16px;
+    text-align: center;
+    font-size: 95%;
+    box-shadow: 0 0 1em grey;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: white;
+   
+    
+}
+
+.gpowder{
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 1em grey;
+    border-radius: 10px;
+   
+    margin: 0 5%;
+    background-color: white;
+    
+}
+
+.gpowder-desc{
+    font-size: 95%;
+    text-align: center;
+    margin: 16px;
+    padding: 5px;
+    
+}
+
+.Gunpowderimg{
+    height: 100px;
+}
+
+.one{
+    width: 3em;
+ 
+}
+
+.disc-desc{
+    font-size: 95%;
+    text-align: center;
+    
+    border-radius: 10px;
+    margin: 16px ;
+    padding: 5px ;
+}
+
+.musicdisc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 2em  #8FCA5C;
+    border-radius: 10px;
+    background-color: white;
+    background-color: #C28340;
+    border: solid;
+    border-color: #477A1E;
+  
+    
+    margin: 0 5%;
+}
+
+.discimg{
+    height: 100px;
+    margin: 5px;
+}
+
+.creephead{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 0 5%;
+    
+    
+    
+
+}
+
+.headimg{
+    height: 100px;
+    
+    border-radius: 10px;
+    background-color: #C28340;
+    border: solid;
+    border-color: #477A1E;
+    box-shadow: 0 0 2em  #8FCA5C;
+}
+
+.creepheaddesc{
+    font-size: 95%;
+    text-align: center;
+    margin: 16px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    background-color: #C28340;
+    border: solid;
+    border-color: #477A1E;
+    box-shadow: 0 0 2em  #8FCA5C;
+}
+
+
+
